@@ -36,11 +36,7 @@ Link for the website - https://agrometric.herokuapp.com/
 
 
 
-## Optimizations
 
-What optimizations did you make in your code? 
-
-Optimisations were made to minimise number of tables, code reusability by inheriting from parent html file, optimising sql queries and many other.
 
 
 ## Tech Stack
